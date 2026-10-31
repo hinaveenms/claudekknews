@@ -1,0 +1,16 @@
+{
+  "name": "晨光報",
+  "nameEn": "Dawn Post",
+  "tagline": "每天一早，讀懂世界",
+  "perPage": 8,
+  "categories": [
+    { "slug": "health", "name": "健康" },
+    { "slug": "tech", "name": "科技" },
+    { "slug": "finance", "name": "財經" },
+    { "slug": "travel", "name": "旅遊" },
+    { "slug": "food", "name": "美食" },
+    { "slug": "culture", "name": "文化" },
+    { "slug": "history", "name": "歷史" },
+    { "slug": "family", "name": "親子" }
+  ]
+}
